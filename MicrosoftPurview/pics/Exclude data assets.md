@@ -1,0 +1,1 @@
+# Exclude assets (ignore patterns)
